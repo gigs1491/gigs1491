@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Gagan Shripad!  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <a href="https://github.com/gigs1491" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
