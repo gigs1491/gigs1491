@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/gagan-shripad-97820437/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gagan-shripad-97820437" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gagan-shripad-97820437?trk=profile-badge">Gagan Shripad</a></div>
-              
-  
+
 
 
 
