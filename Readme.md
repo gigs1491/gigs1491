@@ -15,7 +15,7 @@
 
 
 ### Thanks for stopping by!  
-I’m a backend developer who's into a full-time career. Being a backend engineer allows me develop client-facing apps and websites with cutting edge backend support.
+I’m a backend developer who's into a full-time job. Being a backend engineer allows me develop client-facing apps and websites with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization and also promising technologies like Java, NodeJS and AWS.  
   
