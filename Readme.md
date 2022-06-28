@@ -34,8 +34,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to Java Techstack and related technologies  
   
 
-- ⚡ Fun fact: Don't remember when was last time I turned-off my P  
-
+- ⚡ Fun fact: Don't remember when was last time I turned-off my PC
 
 </td><td valign="top" width="50%">
 
