@@ -28,7 +28,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on [Daily Challenges](https://www.hackerrank.com/gagan_shripad)  
   
 
-- 🌱 I’m currently learning Python and Kubernetes  
+- 🌱 I’m currently learning Python and Docker  
   
 
 - ❓ Ask me about anything related to Java Techstack and related technologies  
