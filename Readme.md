@@ -19,7 +19,7 @@ I enjoy solving complex engineering challenges involving scalability, resiliency
 ### **AWS Certified AI Practitioner (AIF‑C01)**  
 📅 Issued: 2026  
 🏢 Issued by: Amazon Web Services (AWS)  
-🔗 Verified Credential: https://www.credly.com/badges/c488837d-c8c9-4d14-873c-93dd794d6a37/public_url
+
 
 <a href="https://www.credly.com/badges/c488837d-c8c9-4d14-873c-93dd794d6a37/public_url" target="_blank">
   <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
