@@ -257,17 +257,10 @@ Current roadmap:
 
 ### Backend
 
-- Spring Boot Enterprise Boilerplate
 - Kafka Event Streaming
 - Payment Gateway System
 - Distributed Transaction Examples
 - Design Pattern Repository
-
-### Cloud
-
-- AWS ECS Deployment
-- Docker + Kubernetes
-- Terraform Infrastructure
 
 ### AI
 
