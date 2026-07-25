@@ -283,7 +283,6 @@ Current roadmap:
 
 # 📊 GitHub Stats
 
-> *(Enable these after creating your profile README)*
 
 ![](https://github-readme-stats.vercel.app/api?username=gigs1491&show_icons=true&theme=tokyonight)
 
