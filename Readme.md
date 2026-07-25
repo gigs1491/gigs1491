@@ -16,19 +16,21 @@ I enjoy solving complex engineering challenges involving scalability, resiliency
 
 ## 🏆 Certifications
 
-<a href="https://www.credly.com/badges/c488837d-c8c9-4d14-873c-93dd794d6a37/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c488837d-c8c9-4d14-873c-93dd794d6a37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</a>
-
-
-**AWS Certified AI Practitioner (AIF-C01)**  
+### **AWS Certified AI Practitioner (AIF‑C01)**  
 📅 Issued: 2026  
 🏢 Issued by: Amazon Web Services (AWS)  
-🔗 Verified Credential: <YOUR_CREDLY_BADGE_URL>
+🔗 Verified Credential: https://www.credly.com/badges/c488837d-c8c9-4d14-873c-93dd794d6a37/public_url
+
+<a href="https://www.credly.com/badges/c488837d-c8c9-4d14-873c-93dd794d6a37/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
+</a>
+
+<!-- Credly Badge Embed -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c488837d-c8c9-4d14-873c-93dd794d6a37" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - ☁️ **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services (AWS), **2026**
-- 🤖 Continuously learning **Generative AI, LLMs, RAG, MCP, Spring AI, LangChain4j & AI Agents**
+- 🤖 Continuously learning **Generative AI, LLMs, RAG, MCP, Spring AI & AI Agents**
 
 ---
 
