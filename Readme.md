@@ -27,7 +27,6 @@ I enjoy solving complex engineering challenges involving scalability, resiliency
 
 <!-- Credly Badge Embed -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c488837d-c8c9-4d14-873c-93dd794d6a37" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - ☁️ **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services (AWS), **2026**
 - 🤖 Continuously learning **Generative AI, LLMs, RAG, MCP, Spring AI & AI Agents**
