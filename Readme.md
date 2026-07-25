@@ -10,100 +10,200 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
+# Hi there, I'm Gagan Shripad 👋
 
+## Senior Backend Engineer | Java | Spring Boot | AWS | Microservices | Banking & Payments
 
+I'm a Senior Backend Engineer with **12+ years of experience** designing and building scalable backend systems across **Banking, Payments, and Telecommunications** domains.
 
-### Thanks for stopping by!  
-I’m a backend developer who's into a full-time job. Being a backend engineer allows me develop client-facing apps and websites with cutting edge backend support.
+I specialize in developing cloud-native, event-driven applications using Java, Spring Boot, Kafka, AWS, and modern microservices architecture. Recently, I've also been working on **AI-powered integrations** and exploring **Generative AI, LLMs, and Retrieval-Augmented Generation (RAG)**.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization and also promising technologies like Java, NodeJS and AWS.  
-  
+---
 
-<br/>  
+## 👨‍💻 About Me
 
+- 💼 Senior Backend Engineer at **Emirates NBD**
+- ☁️ AWS Certified AI Practitioner
+- 🚀 12+ years building enterprise backend systems
+- 🏦 Banking & Payments Domain Expert
+- ⚡ Passionate about Distributed Systems & Event-Driven Architecture
+- 🤖 Exploring Generative AI, MCP, AI Agents, and RAG
+- 📍 Dubai, United Arab Emirates
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+---
 
-- 🔭 I’m currently working on [Daily Challenges](https://www.hackerrank.com/gagan_shripad)  
-  
+## 💡 What I Do
 
-- 🌱 I’m currently learning Python and Docker  
-  
+- Design scalable Microservices
+- Build REST APIs
+- Event-driven architectures using Kafka
+- Cloud-native development on AWS
+- API integrations with external partners
+- Performance optimization
+- Secure backend development
+- AI API integrations
+- Production support & system reliability
 
-- ❓ Ask me about anything related to Java Techstack and related technologies  
-  
+---
 
-- ⚡ Fun fact: Don't remember when was last time I turned-off my PC
+## 🛠️ Tech Stack
 
-</td><td valign="top" width="50%">
+### Languages
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+Java • Node.js • SQL
 
+### Backend
 
-</td></tr></table>  
+Spring Boot  
+Spring Security  
+Spring Batch  
+Hibernate / JPA
 
-<br/>  
+### Cloud
 
+AWS
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
-</div>  
+- ECS
+- Lambda
+- S3
+- CloudWatch
+- API Gateway
+- IAM
 
-<br/>  
+### Architecture
 
+- Microservices
+- Distributed Systems
+- Event-Driven Architecture
+- REST APIs
+- Kafka
+- Redis
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### Databases
 
-<img src="https://github-readme-stats.vercel.app/api?username=gigs1491&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- Oracle
+- PostgreSQL
+- MySQL
+- DynamoDB
+- Couchbase
 
-</td><td valign="top" width="50%">
+### DevOps
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigs1491&hide_border=true&layout=compact" align="left" style="width: 100%" />
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Terraform
 
-</td></tr></table>  
+### Monitoring
 
-<br/>  
+- Splunk
+- Dynatrace
+- CloudWatch
 
-  
+### Testing
 
-<br/>  
+- JUnit
+- Cucumber
+- Mockito
+- Postman
 
-![Profile views counter](https://komarev.com/ghpvc/?username=gigs1491&&style=flat-square)  
-  
+---
 
-<br/>  
+# Professional Journey
 
+### Emirates NBD
 
-<br />
+Building modern banking solutions using:
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- Java
+- Spring Boot
+- Kafka
+- AWS
+- Redis
+- AI-powered integrations
+- External partner integrations
+- Event-driven architecture
+
+---
+
+### Western Union
+
+Worked on:
+
+- Payment Gateway
+- Global payment integrations
+- Cloud migration
+- Java 17
+- Spring Boot 3
+- AWS
+- Microservices
+
+---
+
+### Telstra
+
+Focused on:
+
+- Cloud-native applications
+- AWS Lambda
+- Kinesis
+- CI/CD
+- Blue-Green Deployments
+- API Gateway
+
+---
+
+### IBM
+
+Started my software engineering journey developing enterprise Java applications and learning enterprise software development best practices.
+
+---
+
+# 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Model Context Protocol (MCP)
+- Spring AI
+- LangChain4j
+- AI-powered Enterprise Applications
+
+---
+
+# 📂 Featured Projects
+
+🚧 Coming Soon...
+
+I'm currently building and publishing projects around:
+
+- AI-powered Java applications
+- Spring Boot Microservices
+- Kafka Event Streaming
+- AWS Cloud Projects
+- System Design Examples
+- Backend Interview Preparation
+- Design Patterns
+- Distributed Systems
+
+Stay tuned!
+
+---
+
+# 📈 GitHub Goals
+
+My goal is to use GitHub as a knowledge-sharing platform by publishing practical enterprise-level projects, system design examples, backend engineering best practices, and AI-integrated applications.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: YOUR_EMAIL
+- 📍 Dubai, UAE
+
+---
+
+> *"Building scalable backend systems today while engineering intelligent AI-powered solutions for tomorrow."*
