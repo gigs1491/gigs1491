@@ -1,85 +1,128 @@
-## Hey 👋, I'm Gagan Shripad!  
+# Hey 👋, I'm Gagan Shripad!
+
+<div align="center">
 
 <a href="https://github.com/gigs1491" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://twitter.com/gagan0712" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gagan-shripad-97820437/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-# Hi there, I'm Gagan Shripad 👋
-
-## Senior Backend Engineer | Java | Spring Boot | AWS | Microservices | Banking & Payments
-
-I'm a Senior Backend Engineer with **12+ years of experience** designing and building scalable backend systems across **Banking, Payments, and Telecommunications** domains.
-
-I specialize in developing cloud-native, event-driven applications using Java, Spring Boot, Kafka, AWS, and modern microservices architecture. Recently, I've also been working on **AI-powered integrations** and exploring **Generative AI, LLMs, and Retrieval-Augmented Generation (RAG)**.
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Gagan Shripad
+
+## 🚀 Senior Backend Engineer | Java | Spring Boot | AWS | Kafka | Microservices | Banking & Payments | AI Integrations
+
+I'm a **Senior Backend Engineer** with **12+ years of experience** designing, developing, and modernizing enterprise-grade backend systems across **Banking, Payments, and Telecommunications**.
+
+I specialize in building **cloud-native**, **event-driven**, and **distributed microservices** using **Java, Spring Boot, Kafka, AWS, Redis, and REST APIs**.
+
+Currently at **Emirates NBD**, I'm working on **AI-powered banking solutions**, integrating external fintech platforms like **Bridgwise** and **Evooq** through **Kafka, REST APIs, and AI services** to enhance digital customer experiences.
+
+I enjoy solving complex engineering challenges involving scalability, resiliency, system design, cloud migration, and intelligent automation.
+
+---
+
+## 🏆 Certifications
+
+<a href="<YOUR_CREDLY_BADGE_URL>" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner_(AIF--C01)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
+</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c488837d-c8c9-4d14-873c-93dd794d6a37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+**AWS Certified AI Practitioner (AIF-C01)**  
+📅 Issued: 2026  
+🏢 Issued by: Amazon Web Services (AWS)  
+🔗 Verified Credential: <YOUR_CREDLY_BADGE_URL>
+
+- ☁️ **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services (AWS), **2026**
+- 🤖 Continuously learning **Generative AI, LLMs, RAG, MCP, Spring AI, LangChain4j & AI Agents**
+
+---
+
+# 👨‍💻 About Me
 
 - 💼 Senior Backend Engineer at **Emirates NBD**
-- ☁️ AWS Certified AI Practitioner
-- 🚀 12+ years building enterprise backend systems
-- 🏦 Banking & Payments Domain Expert
+- ☁️ AWS Certified AI Practitioner (AIF-C01)
+- 🚀 12+ Years of Professional Experience
+- 🏦 Banking, Payments & FinTech Domain Expert
 - ⚡ Passionate about Distributed Systems & Event-Driven Architecture
-- 🤖 Exploring Generative AI, MCP, AI Agents, and RAG
-- 📍 Dubai, United Arab Emirates
+- 🤖 Building AI-enabled Banking Solutions
+- 🌍 Based in Dubai, United Arab Emirates
 
 ---
 
-## 💡 What I Do
+# 💡 What I Do
 
-- Design scalable Microservices
-- Build REST APIs
-- Event-driven architectures using Kafka
-- Cloud-native development on AWS
-- API integrations with external partners
-- Performance optimization
-- Secure backend development
-- AI API integrations
-- Production support & system reliability
+✔ Build Enterprise Backend Applications
+
+✔ Design Scalable Microservices
+
+✔ Develop High Performance REST APIs
+
+✔ Event-Driven Architecture using Apache Kafka
+
+✔ Cloud Native Development on AWS
+
+✔ AI API Integrations
+
+✔ FinTech & Banking Integrations
+
+✔ Performance Optimization
+
+✔ Production Support & Reliability Engineering
+
+✔ Secure Software Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
-Java • Node.js • SQL
+- Java
+- Node.js
+- SQL
 
-### Backend
+### ⚙ Backend
 
-Spring Boot  
-Spring Security  
-Spring Batch  
-Hibernate / JPA
+- Spring Boot
+- Spring Security
+- Spring Batch
+- Hibernate
+- JPA
 
-### Cloud
+### ☁ Cloud
 
-AWS
-
-- ECS
-- Lambda
-- S3
-- CloudWatch
+- AWS ECS
+- AWS Lambda
 - API Gateway
 - IAM
+- CloudWatch
+- S3
 
-### Architecture
+### 🏗 Architecture
 
 - Microservices
 - Distributed Systems
 - Event-Driven Architecture
 - REST APIs
-- Kafka
+- Domain Driven Design (DDD)
+- Design Patterns
+
+### 🔄 Messaging
+
+- Apache Kafka
 - Redis
 
-### Databases
+### 💾 Databases
 
 - Oracle
 - PostgreSQL
@@ -87,7 +130,7 @@ AWS
 - DynamoDB
 - Couchbase
 
-### DevOps
+### 🚀 DevOps
 
 - Docker
 - Kubernetes
@@ -95,115 +138,215 @@ AWS
 - GitHub Actions
 - Terraform
 
-### Monitoring
+### 📈 Monitoring
 
 - Splunk
 - Dynatrace
-- CloudWatch
+- AWS CloudWatch
 
-### Testing
+### 🧪 Testing
 
 - JUnit
-- Cucumber
 - Mockito
+- Cucumber
 - Postman
 
+### 🔒 Security
+
+- OAuth2
+- JWT
+- OWASP
+- SonarQube
+- Checkmarx
+
 ---
 
-# Professional Journey
+# 💼 Professional Journey
 
-### Emirates NBD
+## 🏦 Emirates NBD
 
-Building modern banking solutions using:
+### Senior Backend Engineer
 
+Working on enterprise-scale digital banking applications.
+
+Highlights:
+
+- AI-powered Banking Applications
+- Kafka Event Streaming
+- External Partner Integrations
+- Bridgwise Integration
+- Evooq Integration
+- REST APIs
+- AI APIs
+- Redis
+- AWS
+- Spring Boot
+- Distributed Systems
+- Event-Driven Architecture
+
+---
+
+## 💳 Western Union
+
+### Senior Associate — Solution Engineering
+
+Worked on enterprise payment platforms.
+
+Highlights:
+
+- Global Payment Gateway
+- Payment Provider Integrations
+- Java 17 Migration
+- Spring Boot 3
+- AWS Migration
+- Kafka
+- Cloud Native Applications
+- Distributed Microservices
+
+---
+
+## 📡 Telstra
+
+### Software Engineering Specialist
+
+Worked on cloud modernization initiatives.
+
+Highlights:
+
+- AWS Lambda
+- AWS Kinesis
+- API Gateway
+- CI/CD
+- Blue Green Deployments
+- Cloud Native Applications
 - Java
 - Spring Boot
-- Kafka
-- AWS
-- Redis
-- AI-powered integrations
-- External partner integrations
-- Event-driven architecture
 
 ---
 
-### Western Union
+## 💻 IBM
 
-Worked on:
+### Application Developer
 
-- Payment Gateway
-- Global payment integrations
-- Cloud migration
-- Java 17
-- Spring Boot 3
-- AWS
-- Microservices
-
----
-
-### Telstra
-
-Focused on:
-
-- Cloud-native applications
-- AWS Lambda
-- Kinesis
-- CI/CD
-- Blue-Green Deployments
-- API Gateway
-
----
-
-### IBM
-
-Started my software engineering journey developing enterprise Java applications and learning enterprise software development best practices.
+Started my professional software engineering journey developing enterprise Java applications and learning enterprise software engineering best practices.
 
 ---
 
 # 🌱 Currently Learning
 
+I'm actively learning and building projects around:
+
 - Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Model Context Protocol (MCP)
 - Spring AI
 - LangChain4j
-- AI-powered Enterprise Applications
+- Model Context Protocol (MCP)
+- AI Agents
+- Amazon Bedrock
+- Vector Databases
+- Prompt Engineering
+- Intelligent Automation
+
+---
+
+# 🚀 2026 Goals
+
+- ✅ Build Enterprise AI Applications
+- ✅ Master Spring AI
+- ✅ Build Production-ready RAG Applications
+- ✅ Publish Enterprise Java Projects
+- ✅ Master System Design
+- ✅ Learn AI Agent Frameworks
+- ✅ Contribute to Open Source
+- ✅ Share Technical Articles
 
 ---
 
 # 📂 Featured Projects
 
-🚧 Coming Soon...
+🚧 **Coming Soon...**
 
-I'm currently building and publishing projects around:
+Current roadmap:
 
-- AI-powered Java applications
-- Spring Boot Microservices
+### Backend
+
+- Spring Boot Enterprise Boilerplate
 - Kafka Event Streaming
-- AWS Cloud Projects
-- System Design Examples
-- Backend Interview Preparation
-- Design Patterns
-- Distributed Systems
+- Payment Gateway System
+- Distributed Transaction Examples
+- Design Pattern Repository
 
-Stay tuned!
+### Cloud
 
----
+- AWS ECS Deployment
+- Docker + Kubernetes
+- Terraform Infrastructure
 
-# 📈 GitHub Goals
+### AI
 
-My goal is to use GitHub as a knowledge-sharing platform by publishing practical enterprise-level projects, system design examples, backend engineering best practices, and AI-integrated applications.
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: YOUR_EMAIL
-- 📍 Dubai, UAE
+- Spring AI Chatbot
+- Java + OpenAI Integration
+- LangChain4j Examples
+- RAG Application
+- AI Agents
+- MCP Demo
+- Banking AI Assistant
 
 ---
 
-> *"Building scalable backend systems today while engineering intelligent AI-powered solutions for tomorrow."*
+# 📊 GitHub Stats
+
+> *(Enable these after creating your profile README)*
+
+![](https://github-readme-stats.vercel.app/api?username=gigs1491&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gigs1491&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigs1491&layout=compact&theme=tokyonight)
+
+---
+
+# 📝 Latest Interests
+
+- Enterprise Java
+- System Design
+- Cloud Architecture
+- Kafka
+- AWS
+- Spring Boot
+- AI Engineering
+- GenAI
+- LLM Applications
+- AI Integration Patterns
+
+---
+
+# 🤝 Let's Connect
+
+📍 Dubai, United Arab Emirates
+
+💼 LinkedIn  
+https://www.linkedin.com/in/gagan-shripad-97820437/
+
+📧 Email  
+gagan.shripad@live.in
+
+🐙 GitHub  
+https://github.com/gigs1491
+
+---
+
+# 💬 Favorite Quote
+
+> **"Building scalable backend systems today while engineering intelligent AI-powered solutions for tomorrow."**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gigs1491&style=for-the-badge)
+
+</div>
